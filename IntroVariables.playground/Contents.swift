@@ -56,3 +56,11 @@ print(Double(myInt) + a)
 // Booleans
 
 let gameOver = false
+
+var myDoub: Double = 5.76
+var myIn: Int = 8
+
+
+print("The product of \(myDoub) and \(myInt) is \(myDoub * Double(myIn))")
+
+
